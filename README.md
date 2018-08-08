@@ -16,7 +16,7 @@ Instalação
 
 3. Depois digite no terminal `yarn install` para baixar a pasta node_modules que contem            dependências do projeto.
     
-2. Depois digite no terminal `yarn start` para "subir" o servidor de desenvolvimento, abri         automaticamente em seu navegador o projeto.
+2. Depois digite no terminal `yarn start` para "subir" o servidor de desenvolvimento, abrirá         automaticamente em seu navegador o projeto.
 
 
 Estrutura do diretório
